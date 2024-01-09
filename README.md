@@ -12,6 +12,8 @@ El objetivo de este proyecto se basa en presentar un dashboard en Power BI con K
 
 Para este proyecto realicé un análisis exploratorio de datos en el que chequee valores nulos, valores duplicados, valores outliers, tendencias, etc. Esto lo realicé en un notebook de python para una mayor comodidad.
 Para esto utilicé las librerias pandas, matplotlib y seaborn.
+
+Durante el EDA vi que el excel de homicidios tenía muchas filas con todos los datos nulos, por lo que opté por eliminarlas y guardarlas en el excel [homicidios_sinulos.xlsx](https://github.com/Lukitens/PI_DA/blob/main/homicidios_sinnulos.xlsx)
 [Notebook](https://github.com/Lukitens/PI_DA/blob/main/eda.ipynb)
 
 ## Dashboard: ##
