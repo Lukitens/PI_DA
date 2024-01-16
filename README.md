@@ -1,5 +1,5 @@
 # Proyecto individual Nº2: Siniestros Viales: #
-![Siniestro_imagen](https://github.com/Lukitens/PI_DA/blob/main/SV-1.jpg)
+![Siniestro_imagen](https://github.com/Lukitens/PI_DA/blob/main/Imagenes/SV-1.jpg) 
 
 ## Introducción: ##
 
