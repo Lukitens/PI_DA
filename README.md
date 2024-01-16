@@ -27,7 +27,7 @@ Al dashboard le dí una estética como si fuera una presentación oficial de un 
 En la presentación Puse un titulo general llamado Informe sobre siniestros viales en la Ciudad de Buenos Aires, acompañado del logo del ministerio de transporte y aclarando que el proyecto fue llevado a cabo por el Observatorio de Movilidad y Seguridad Vial. Abajo de eso coloqué unos botones con los cuáles se puede ir a la página que se solicite
 
 ### Informe Homicidios ###
-![Informe Homicidios](https://github.com/Lukitens/PI_DA/blob/main/Imagenes/Presentación.png)
+![Informe Homicidios](https://github.com/Lukitens/PI_DA/blob/main/Imagenes/InformeHomicidios.png)
 
  - En esta página podemos observar que en el primer gráfico el tipo de calle con mayor víctimas es la avenida, esto se debe a que hay una gran cantidad de personas circulando simultaneamente a una velocidad muy alta, por lo que hace que sea mas probable los accidentes. Le siguen las autopistas y luego las calles normales
 
